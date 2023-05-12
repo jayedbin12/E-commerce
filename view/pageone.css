@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: white;
+}
+h1 {
+  font-weight: 900;
+  color: skyblue;
+}
+.container {
+  max-width: 700px;
+  border-radius: 2rem;
+  width: 100%;
+  background: #23463f;
+  padding: 25px 30px;
+  font-weight: 900;
+  text-align: center;
+}
+.pictures button {
+  background-color: aquamarine;
+  border: none;
+  border-radius: 12px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.tshirts button {
+  background-color: aquamarine;
+  border: none;
+  border-radius: 12px;
+  color: black;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#bttn2 {
+  background-color: aquamarine;
+  border: none;
+  border-radius: 12px;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+#bttn4 {
+  background-color: aquamarine;
+  border: none;
+  border-radius: 12px;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+h4 {
+  float: left;
+}
+#order {
+  padding-left: 40%;
+  font-size: 15px;
+  color: pink;
+}
+#order a:hover {
+  color: blue;
+}
+h5 {
+  float: right;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: hotpink;
+}

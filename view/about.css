@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: white;
+  background-image: url("images/images.jpg");
+}
+.container {
+  max-width: 100%;
+  border-radius: 2rem;
+  width: 100%;
+  background: #23463f;
+  padding: 25px 30px;
+  font-weight: 900;
+  text-align: center;
+}
+strong {
+  font-size: 22px;
+  font-weight: 900;
+  color: aqua;
+  text-transform: uppercase;
+}
